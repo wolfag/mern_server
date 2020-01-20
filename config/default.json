@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://wolfag:<password>@devconnector-yonbx.mongodb.net/test?retryWrites=true&w=majority"
+}
